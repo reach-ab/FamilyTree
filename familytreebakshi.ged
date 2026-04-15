@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
 1 DATE 15 APR 2026
-2 TIME 17:33:35
+2 TIME 17:36:53
 1 SUBM @SUBM@
 1 FILE C:\xampp\htdocs\Treeviewdata\familytreebakshi.ged
 1 COPR Copyright (c) 2026 .
@@ -135,6 +135,7 @@
 2 PLAC Hernal, Rawalpindi, Pakistan
 1 DEAT
 2 DATE 3 JUN 2011
+2 PLAC Ahmedabad, Gujarat, India
 1 FAMC @F0046@
 2 PEDI birth
 1 FAMS @F0003@
@@ -153,6 +154,7 @@
 2 PLAC Bewal, Rawalpindi, Pakistan
 1 DEAT
 2 DATE 31 OCT 2002
+2 PLAC Agra, Uttar Pradesh, India
 1 FAMC @F0045@
 2 PEDI birth
 1 FAMS @F0003@
