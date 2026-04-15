@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
 1 DATE 15 APR 2026
-2 TIME 12:09:26
+2 TIME 13:14:14
 1 SUBM @SUBM@
 1 FILE C:\xampp\htdocs\Treeviewdata\familytreebakshi.ged
 1 COPR Copyright (c) 2026 .
@@ -131,7 +131,8 @@
 2 SURN Bakshi
 1 SEX M
 1 BIRT
-2 DATE 3 NOV 1916
+2 DATE 13 NOV 1916
+2 PLAC Hernal, Rawalpindi, Pakistan
 1 DEAT
 2 DATE 3 JUN 2011
 1 FAMC @F0046@
@@ -149,6 +150,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 DEC 1927
+2 PLAC Bewal, Rawalpindi, Pakistan
 1 DEAT
 2 DATE 31 OCT 2002
 1 FAMC @F0045@
@@ -2455,7 +2457,7 @@
 2 DATE 14 APR 2026
 3 TIME 20:46:26
 0 @O0003@ OBJE
-1 FILE c:\users\admin\pictures\..\..\..\Wares\GrampsPortable\images\Ankur Bakshi.jpg
+1 FILE https://s3.ap-south-1.amazonaws.com/ab.dev.temp/ankur/Work/FamilyTree/Interactive+Family+Tree/images/Ankur+Bakshi.jpg
 2 FORM jpg
 2 TITL Ankur Bakshi
 1 CHAN
