@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
 1 DATE 15 APR 2026
-2 TIME 10:36:55
+2 TIME 12:09:26
 1 SUBM @SUBM@
 1 FILE C:\xampp\htdocs\Treeviewdata\familytreebakshi.ged
 1 COPR Copyright (c) 2026 .
@@ -1939,9 +1939,10 @@
 2 DATE 14 APR 2026
 3 TIME 18:25:09
 0 @I0258@ INDI
-1 NAME Beeji //
+1 NAME Tarawanti //
 2 TYPE birth
-2 GIVN Beeji
+2 GIVN Tarawanti
+2 NICK Beeji
 1 SEX F
 1 BIRT
 2 DATE ?? ?? ????
@@ -1949,8 +1950,8 @@
 2 DATE ?? ?? 1974
 1 FAMS @F0049@
 1 CHAN
-2 DATE 14 APR 2026
-3 TIME 18:23:50
+2 DATE 15 APR 2026
+3 TIME 11:57:47
 0 @I0259@ INDI
 1 NAME Bakshi Hira Singh (Rai Bahadur Hira Singh) /Harnal/
 2 TYPE birth
